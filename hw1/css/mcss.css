@@ -1,0 +1,59 @@
+html, body {
+    min-height: 100%;
+}
+html {
+    background-color: #fff;
+}
+
+#page {
+    background: #b17d14 url('../images/The_Crow/raven.jpg') bottom/100% 100%;
+    font-size: 20px;
+    border: 16px outset #b0893B;
+    font-weight: 900;
+    color: #1e1616;
+
+}
+
+.diva {
+    width: 550px;
+    text-indent: 50px;
+    line-height: 24px;
+    color: #e7fdff;
+    font-family: sans-serif;
+
+}
+
+.diva>h1 {
+    text-align: center;
+    color: #f4c76c
+}
+
+.diva>h3 {
+    text-align: center;
+    font-style: italic;
+    font-variant: small-caps;
+    color: #322a1a;
+
+}
+
+.divb {
+    border-top: 10px double #b0893b;
+    color: #f4c76c;
+}
+
+.divc {
+    font-family: serif;
+    font-weight: bold;
+    color: #000;
+    font-size: 20px;
+}
+
+.spana {
+    letter-spacing: 2px;
+    font-style: italic;
+
+}
+
+.spanb {
+    border-bottom: #ff9900 2px solid;
+}
