@@ -1,0 +1,30 @@
+body {
+    margin: 0 auto;
+}
+
+
+nav {
+    display: flex;
+    padding: 60px 300px;
+}
+
+nav>div {
+    width: 150px;
+    line-height: 75px;
+    font-size: 22px;
+    border: 4px outset khaki;
+    outline: 6px outset #994d00;
+    background-color:	#ff9933 ;
+}
+
+#about {
+    border: 4px outset #b300b3;
+    font-size: 30px;
+}
+a {
+    text-align: center;
+    padding: 18px 50px 18px 20px ;
+    color:#5c5c3d ;   
+}
+
+

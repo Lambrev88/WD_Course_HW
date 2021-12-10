@@ -1,0 +1,31 @@
+body {
+    width: 60vw;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
+
+.floata, .floatb {
+    margin: 40px 0px;
+}
+
+.floata, .floatb p {
+    text-align: justify;
+}
+
+.floata img {
+    float: left;
+    margin-right: 10px;
+}
+
+.floatb img {
+    float: right;
+    margin-left: 10px;
+
+}
