@@ -21,18 +21,16 @@ function greetings() {
     // console.log(userTown);
 
     // Task 2:
-
-
-    if (userTown === 'София') {
+    
+        if (userTown === 'София') {
         console.log('Здравей!');
 
     } else if (userTown === 'Париж') {
         console.log('Salut!');
-    } else if (userTown === 'Лондон') {
+    } else {
         console.log('Hi!');
-        
+
     }
-    
 
 
     // --> YOUR CODE ENDS HERE <--
